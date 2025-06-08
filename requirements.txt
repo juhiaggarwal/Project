@@ -1,0 +1,17 @@
+Flask
+gunicorn
+python-dotenv
+requests
+email-validator
+flask_sqlalchemy
+flask_login
+flask_dance
+flask_cors
+python-docx
+docx2pdf
+pdf2image
+PyPDF2
+pdfkit
+google-api-python-client
+oauthlib
+Werkzeug
